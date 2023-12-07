@@ -5,9 +5,11 @@ const classInfo = [];
 /*
  * Add fan pages below
  */
-classInfo.push({ name: 'Steve Her', fanPageUrl: 'https://sth84478.github.io/fan-page/' });
-classInfo.push({ name: 'Stephen Green', fanPageUrl: 'https://stevegreen4.github.io/fan-page/' });
-classInfo.push({ name: 'Samantha Stinchcomb', fanPageUrl: 'https://thepudgypigeon.github.io/fan-page/' });
+classInfo.push({ name: 'Elliott Wilkinson', fanPageUrl: 'https://elliottwilkinson.github.io/fan/' });
+classInfo.push({ name: 'Ian bird', fanPageUrl: 'https://birdmandeveloper.github.io/fan/' });
+classInfo.push({ name: 'David Smith', fanPageUrl: 'https://dtsmth.github.io/fan/' });
+classInfo.push({ name: 'Matthew Gillott', fanPageUrl: 'https://mgillott.github.io/fan/' });
+classInfo.push({ name: 'Trevor Kline', fanPageUrl: 'https://tkline12.github.io/fan/' });
 
 
 window.addEventListener('DOMContentLoaded', event => {
